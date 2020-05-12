@@ -1,10 +1,5 @@
-# web2
-<!DOCTYPE>
+# It is lie
 <html>
-
-<head>
-<title> It is lie </title>
-</head>
 
 <body>
 <h1> Hello Minsu! </h1>
